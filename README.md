@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-keshav" alt="dev-keshav" /></a> </p>
 
-- 🔭 I’m currently working on **Python projects**
+- 🔭 I’m currently working on **Javascript projects**
 
 - 🌱 I’m currently learning **Chrome extension development**
 
 - 👯 I’m looking to collaborate on **a good web development project**
 
-- 📝 I regularly write articles on [https://thegreatnotes.wordpress.com/](https://thegreatnotes.wordpress.com/)
+- 📝 I regularly write articles on [https://keshavkr.hashnode.dev/](https://keshavkr.hashnode.dev/)
 
 - 📫 How to reach me **keshavkumar9431@gmail.com**
 
